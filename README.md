@@ -1,5 +1,7 @@
 # macOS apps
 
+A selection of apps I always install.
+
 - [ ] 1Password
 - [ ] 1Blocker
 - [ ] Affinity Photo / Designer / Publisher
